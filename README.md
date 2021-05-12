@@ -96,6 +96,9 @@ voir document `Recette du fifty burger.docx`.
 * bordure haut et bas beige de `30px`
 * bordure arrondie de `30px`
 
+**Note :** Ne pas oublier d'ajouter un **paragraphe** avec le lien **"Retourner en haut de la page"**
+au tout début du pied de page. Pour qu'il fonctionne ajoute une ancre `#top` au `<body>`.
+
 ## Bonus Burger... _si tu vises le 6 !_
 
 Donner un look de **Big Mac** aux listes à puces des ingrédients
