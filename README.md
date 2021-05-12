@@ -109,7 +109,8 @@ Donner un look de **BigMac** aux listes à puces des ingrédients :
   * bordure inférieure verte de `10px`
   
 * Pour s'assurer que le dernier élément est un pain,
-  sélectionner le dernier élément de la liste et lui appliquer les styles suivants :
+  sélectionner le dernier élément de la liste
+  et lui appliquer les styles suivants :
   * couleur de fond beige
   * supprimer les bordures
   
