@@ -74,7 +74,7 @@ Les ingrédients sont séparés en deux liste à puces (Voir dans document Word)
 
 * arrière-plan beige
 * couleur du texte blanc
-* marges intérieures `10px` haut/bas et `20px` gauche/droite
+* marges intérieures `10px` haut/bas et `40px` gauche/droite
 
 ###### Au 1er élément de la liste
 * bordure arrondie de `30px` au coins supérieurs
