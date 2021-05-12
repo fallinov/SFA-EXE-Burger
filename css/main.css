@@ -1,4 +1,4 @@
-/* https://coolors.co/000000-ffffff-dc7f2e-bf1700-6b9b1d */
+/* https://coolors.co/e8a062-823922-00a24b-fdc032-b90014 */
 
 * {
     box-sizing: border-box;
@@ -9,8 +9,8 @@ body {
     font-weight: 400;
     font-size: 1.2rem;
     line-height: 1.4;
-    color: #000;
-    background-color: #fff;
+    color: black;
+    background-color: white;
 }
 
 img {
@@ -20,12 +20,12 @@ img {
 }
 
 a {
-    color: #dc7f2e;
+    color: #00a24b;
     text-decoration: none;
 }
 
 a:hover {
-    color: #6b9b1d;
+    color: #E8A062;
 }
 
 
@@ -34,14 +34,14 @@ h1, h2 {
 }
 
 h1 {
-    color: #bf1700;
+    color: #FDC032;
     font-size: 4rem;
     line-height: .9;
 }
 
 h2 {
     font-size: 2.5rem;
-    color: #6b9b1d;
+
     margin: 60px 0 20px;
 }
 
@@ -53,6 +53,10 @@ header {
     text-align: center;
     background-color: #000;
     padding: 10px;
+}
+
+header img {
+    max-height: 160px;
 }
 
 main {
@@ -77,34 +81,32 @@ main ul.ingredients {
 main .ingredients li {
     color: white;
     padding: 10px 20px;
-    background-color: #9E3C00;
+    background-color: #E8A062;
 }
 
-main .ingredients li:nth-child(2) {
-    background-color: #6b9b1d;
-}
-
-main .ingredients li:nth-child(3) {
-    background-color: #bf1700;
+main .ingredients li:nth-child(even) {
+    border-top: 5px solid #FDC032;
+    background-color: #823922;
+    border-bottom: 10px solid #00A24B;
 }
 
 main .ingredients li:first-child {
-    background-color: #dc7f2e;
     border-radius: 30px 30px 0 0;
 }
 
 main .ingredients li:last-child {
-    background-color: #dc7f2e;
+    background-color: #E8A062;
     border-radius: 0 0 30px 30px;
+    border: none;
 }
 
 footer {
     max-width: 400px;
     min-height: 50px;
     text-align: center;
-    background-color: #9E3C00;
-    border-top: 30px solid #dc7f2e;
-    border-bottom: 30px solid #dc7f2e;
+    background-color: #823922;
+    border-top: 30px solid #E8A062;
+    border-bottom: 30px solid #E8A062;
     border-radius: 30px;
     margin: 20px auto 40px;
     color: white;
