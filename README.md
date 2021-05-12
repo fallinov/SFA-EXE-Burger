@@ -41,10 +41,75 @@ https://coolors.co/e8a062-823922-00a24b-fdc032-ffffff-000000
 
 ### Entête du site
 
-* Arrière-plan de l'entête est noir
-* 
+* Arrière-plan noir
+* Texte centré horizontalement
+* Marge intérieure de 10px
+* Le logo a une hauteur max de `160px`
+
+### Contenu principal du site
+
+* marges intérieures de `20px`
+* marges extérieures de `0` en haute et en bas
+  et automatiques à gauche et à droite
+* largeur maximum de `600px`
+
+#### Paragraphe d'introduction
+
+* taille du texte 1.3x la taille du texte de base
+* texte est stylé en italic
+* texte est en majuscule
+
+#### Listes à puces des ingrédients
+
+Les ingrédients sont séparés en deux liste à puces (Voir dans document Word).
+
+##### Liste à puces
+
+* suppression des puces de la liste
+* marges intérieures à `0`
+* largeur max de `95%`
+* marges extérieures de `40px` haut/bas et automatique gauche/droite
+
+##### Eléments de la liste à puces
+
+* arrière-plan beige
+* couleur du texte blanc
+* marges intérieures `10px` haut/bas et `20px` gauche/droite
+
+###### Au 1er élément de la liste
+* bordure arrondie de `30px` au coins supérieurs
+
+###### Au dernier élément de la liste
+* bordure arrondie de `30px` au coins inférieurs
 
 
+### Pied de page du site
 
+* arrière-plan brun
+* couleur du texte blanc
+* texte centré horizontalement
+* marges intérieures de `10px`
+* marges extérieures de `20px`
+  haut et automatique gauche/droite
+  et `40px` bas
+* largeur max de `400px`
+* hauteur minimum de `50px`
+* bordure haut et bas beige de `30px`
+* bordure arrondie de `30px`
 
+## Bonus Burger
 
+Donner un look de **BigMac** aux listes à puces des ingrédients :
+
+* Sélectionner les éléments de la liste
+  en position paire, _even_ en anglais : le 2e, 4e, 6e, ... 
+  Donner à ces éléments les styles suivants :
+  * couleur de fond brune
+  * bordure supérieure jaune de `5px`
+  * bordure inférieure verte de `10px`
+  
+* Pour s'assurer que le dernier élément est un pain,
+  sélectionner le dernier élément de la liste et lui appliquer les styles suivants :
+  * couleur de fond beige
+  * supprimer les bordures
+  
