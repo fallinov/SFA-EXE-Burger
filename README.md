@@ -5,20 +5,22 @@ en vous basant sur :
 
 * Les textes du document Word `Recette du fifty burger.docx`
 * Les images `burger-viande-hachee.jpg` et `fifty-burgers.png`
-* Les maquettes graphique
+* La maquette graphique `maquette-fifty-burgers.png`
 * Les consignes du designer du chapitre suivant
 
 ## Consignes du designer
 
 Pour commencer, voici la palette de couleurs :
-https://coolors.co/e8a062-823922-00a24b-fdc032
+https://coolors.co/e8a062-823922-00a24b-fdc032-ffffff-000000
 
-* Beige _pain_ : #E8A062
-* Brun _viande_ : #823922
-* Vert _salade_ : #00A24B
-* Jaune _fromage_ : #FDC032
+* Beige _pain_ : `#E8A062`
+* Brun _viande_ : `#823922`
+* Vert _salade_ : `#00A24B`
+* Jaune _fromage_ : `#FDC032`
+* Blanc : `#ffffff`
+* Noir : `#000000`
 
-Règles générales a appliquer à tous le site :
+### Règles générales à appliquer à tous le site :
 
 * Police des textes : `Verdana`
 * Épaisseur, poids normal (400)
@@ -35,8 +37,11 @@ Règles générales a appliquer à tous le site :
   et ont une marge extérieure de `60px` haut,
   `20px` en bas
   `0` à gauche et à droite. 
-* 
+* Tous les paragraphes ont un interligne de 1.5
 
+### Entête du site
+
+* Arrière-plan de l'entête est noir
 
 
 
